@@ -6,12 +6,20 @@ test
 
 test
 
-test {code0}make{/code0}
+test
 
-test {code0}make{/code0}
+test `make`
 
-test {code0}make{/code0}
+test `make`
 
-test {code1}def{/code1}
+test `make`
 
-test {code1}def{/code1}
+test `make`
+
+test `def` and `ref`
+
+test `def` and `ref`
+
+test `def` and `ref`
+
+test `def` and `ref`
