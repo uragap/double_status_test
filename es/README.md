@@ -1,5 +1,5 @@
 # test2
 
-и снова 
+not test 
 
-теперь этот поменял
+test and not test
