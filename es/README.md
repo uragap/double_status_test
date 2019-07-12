@@ -1,5 +1,5 @@
 # test2
 
-ещё пробелы 
+  другой текст
 
 test and not test
