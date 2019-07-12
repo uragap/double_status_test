@@ -2,4 +2,4 @@
 
   другой текст
 
-test and not test
+  now
