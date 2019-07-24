@@ -1,25 +1,5 @@
-# prueba2
+# test2
 
-prueba
+  другой текст
 
-prueba
-
-prueba
-
-prueba
-
-prueba de `make`
-
-prueba de `make`
-
-prueba de `make`
-
-prueba de `make`
-
-prueba `def` y `ref`
-
-prueba `def` y `ref`
-
-prueba `def` y `ref`
-
-prueba `def` y `ref`
+  now
