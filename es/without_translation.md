@@ -6,4 +6,4 @@ description: This is the page description placed in the head.
 {# wf_published_on: 2016-09-13 #}
 {# wf_blink_components: N/A #}
 
-test text
+texto de prueba
