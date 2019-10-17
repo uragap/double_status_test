@@ -2,6 +2,9 @@
 challenges:
   commands:
     admin:
+      complete:
+        description: Šī komanda ļauj pabeigt uzdevumu spēlētājam.
+        parameters: "<player> <challenge_id>"
       defaults:
         description: Šī komanda izvada apakškomandas, kas pārvalda sākotnējos uzdevumus/līmeņus.
         parameters: "[komanda]"
