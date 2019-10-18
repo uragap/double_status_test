@@ -1,2 +1,5 @@
 synchronize:
-  en.yml
+  paths:
+  - source: .
+    exclude:
+      - "en.yml"
