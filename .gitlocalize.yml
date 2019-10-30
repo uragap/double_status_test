@@ -1,8 +1,4 @@
 synchronize:
-  paths:
-  - source: .
-    exclude:
-      - "en.yml"
 
 pretranslate:
   paths:
