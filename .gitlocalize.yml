@@ -1,5 +1,5 @@
 synchronize:
-- source: .	
+  source: .	
     exclude:	
       - "en.yml"
       
