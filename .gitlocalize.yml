@@ -1,9 +1,11 @@
 synchronize:
-  source: .	
-    exclude:	
-      - "en.yml"
-      
+    - source: .
+      exclude:
+        - "locales/*"
+        - "bin/*"
+
 pretranslate:
-  paths:
-  - source: .
-    include:
+    - source: .
+      include:
+        - "README.md"
+        - "config/*"
