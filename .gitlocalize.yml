@@ -2,8 +2,7 @@ synchronize:
   paths:
     - source: .
       exclude:
-        - "locales/*"
-        - "bin/*"
+        - "qwerty.md"
 
 pretranslate:
     - source: .
