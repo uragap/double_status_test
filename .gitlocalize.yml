@@ -9,3 +9,5 @@ pretranslate:
       include:
         - "README.md"
         - "config/*"
+settings:
+  ignore_escaped_strings: true
