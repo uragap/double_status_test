@@ -11,3 +11,4 @@ pretranslate:
         - "config/*"
 settings:
   ignore_escaped_strings: true
+  frontmatter_not_escaped: true
