@@ -5,10 +5,10 @@ synchronize:
         - "qwerty.md"
 
 pretranslate:
-    - source: .
-      include:
-        - "README.md"
-        - "config/*"
+  - source: .
+    include:
+      - "README.md"
+      - "config/*"
 settings:
   ignore_escaped_strings: true
   frontmatter_not_escaped: true
