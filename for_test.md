@@ -1,5 +1,6 @@
 <details>
  <summary>1.43.0 Error Message</summary>
+
 ```
    Compiling error-messages v0.1.0 (/Users/ep/src/rust/error-messages)
 error[E0277]: the size for values of type `dyn std::io::Write` cannot be known at compilation time
