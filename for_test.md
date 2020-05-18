@@ -24,6 +24,7 @@ error: could not compile `error-messages`.
 
 To learn more, run the command again with --verbose.
 ```
+
 </details>
 
 ![A terminal screenshot of the 1.43.0 error message.][trait-error-1.43.0]
