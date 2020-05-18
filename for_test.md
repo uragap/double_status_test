@@ -13,19 +13,10 @@ fn generic<W: Write>(_w: &W) {}
 <details>
  <summary>1.2.0 Error Message</summary>
 
-```
-   Compiling error-messages v0.1.0 (file:///Users/usr/src/rust/error-messages)
-src/lib.rs:6:5: 6:12 error: the trait `core::marker::Sized` is not implemented for the type `std::io::Write` [E0277]
-src/lib.rs:6     generic(w);
-                 ^~~~~~~
-src/lib.rs:6:5: 6:12 note: `std::io::Write` does not have a constant size known at compile-time
-src/lib.rs:6     generic(w);
-                 ^~~~~~~
-error: aborting due to previous error
-Could not compile `error-messages`.
+Text
+second line
 
-To learn more, run the command again with --verbose.
-```
+next segment
 
 </details>
 
