@@ -1,29 +1,5 @@
-##### First Example (Traits)
-```rust
-use std::io::Write;
-
-fn trait_obj(w: &Write) {
-    generic(w);
-}
-
-fn generic<W: Write>(_w: &W) {}
-```
-
-
-<details>
- <summary>1.2.0 Error Message</summary>
-Text
-second line
-
-next segment
-
-</details>
-
-![A terminal screenshot of the 1.2.0 error message.][trait-error-1.2.0]
-
 <details>
  <summary>1.43.0 Error Message</summary>
-
 ```
    Compiling error-messages v0.1.0 (/Users/ep/src/rust/error-messages)
 error[E0277]: the size for values of type `dyn std::io::Write` cannot be known at compilation time
@@ -47,7 +23,6 @@ error: could not compile `error-messages`.
 
 To learn more, run the command again with --verbose.
 ```
-
 </details>
 
 ![A terminal screenshot of the 1.43.0 error message.][trait-error-1.43.0]
