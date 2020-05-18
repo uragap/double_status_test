@@ -11,7 +11,7 @@ fn generic<W: Write>(_w: &W) {}
 
 
 <details>
- <summary>1.43.0 Error Message</summary>
+ <summary>1.2.0 Error Message</summary>
 Text
 second line
 
