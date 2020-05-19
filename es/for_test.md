@@ -1,6 +1,6 @@
 {details}
 
- <summary>1.43.0 Error Message</summary>
+ <summary>1.43.0 Mensaje de error</summary>
 
 
 ```
@@ -29,4 +29,4 @@ To learn more, run the command again with --verbose.
 
 {/details}
 
-![A terminal screenshot of the 1.43.0 error message.][trait-error-1.43.0]
+! [Una captura de pantalla del terminal del mensaje de error 1.43.0.] [Trait-error-1.43.0]
