@@ -1,7 +1,0 @@
-synchronize:
-  paths:
-  - source: .
-    exclude:
-    - "*.*"
-    include:
-    - "other/*.*"
