@@ -1,6 +1,0 @@
-msgid "Hello"
-msgstr "Hello"
-
-msgctxt "test"
-msgid "Test
-msgstr "Test"
